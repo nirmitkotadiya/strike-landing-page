@@ -783,6 +783,7 @@ body {
 
 .footer__social a:hover {
   background: var(--primary);
+  color: black;
   transform: translateY(-3px);
 }
 
